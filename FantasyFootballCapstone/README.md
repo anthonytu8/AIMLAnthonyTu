@@ -4,6 +4,7 @@
 Anthony Tu
 
 #### Executive summary
+The overall goal of this data analysis is to determine what are the most important factors in determining fantasy football success of players before the season starts. There are many factors to consider here, including players' historical stats, platforms that provide preseason rankings, and many more. To start, we will focus on datasets that provide historical preseason rankings from various platforms and how accurate those preseason rankings were in predicting actual success. Then, we can expand the analysis to other factors as well.
 
 #### Rationale
 Why should anyone care about this question?
