@@ -41,9 +41,7 @@ More years could be evaluated to strengthen the results. Additionally, now that 
 
 #### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
+- [Link to notebook 1](https://github.com/anthonytu8/AIMLAnthonyTu/blob/main/FantasyFootballCapstone/Capstone.ipynb)
 
 
 ##### Contact and Further Information
